@@ -1,0 +1,23 @@
+name: cardiag_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.26.0
+  - pandas>=2.2.0
+  - matplotlib>=3.8.2
+  - bokeh=3.3.4
+  - seaborn>=0.13.2
+  - neurokit2>=0.2.7
+  - statsmodels>=0.14.1
+  - ptitprince>=0.2.7
+  - scipy>=1.14.1
+  - tqdm>=4.67.1
+  - pingouin>=0.5.5
+  - jupyter
+  - ipython
+  - ipympl
+  - pip
+  - pip:
+      - systole==0.3.0
+      - rpy2==3.5
