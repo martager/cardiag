@@ -6,12 +6,15 @@
 [![version](https://img.shields.io/badge/version-0.1-yellow.svg?maxAge=259200)](#)
 ![Last update](https://img.shields.io/badge/last_update-Apr_22,_2026-green)
 
+![Preregistered Badge](/assets/preregistered_small_color.png)
+![Open Data Badge](/assets/open_data_small_color.png)
+![Open Materials Badge](/assets/open_materials_small_color.png)
 
 📖 **Publication:** *to be updated*
 
-💽 **Data:** *to be updated*
+💽 **Data:** https://doi.org/10.17617/3.ZS7ZTV 
 
-📑 **Preprint:** *to be updated*
+📑 **Preprint:** https://doi.org/10.31234/osf.io/qzs6j_v1 
 
 
 ## Project description
@@ -23,7 +26,7 @@ In the CardiAg study, we investigated whether and how *Cardio*respiratory fluctu
 If you want to reproduce the statistics (or the preprocessing steps) reported in the paper, we suggest that you follow these steps: 
 
 ### Get started
-1. Download the data set from [Edmond – The Open Research Data Repository of the Max Planck Society](*to be updated*)  
+1. Download the data set from [Edmond – The Open Research Data Repository of the Max Planck Society](https://doi.org/10.17617/3.ZS7ZTV)  
     There are data-specific `README.md` and `dataset_description.json` files on Edmond which explain what the single folders and files contain, as well as which scripts were used to produced the derivative data. 
 2. Clone this repository to a clean local directory. 
 3. Replace the `data/` folder with the actual data which you downloaded in step 1 and unzipped. 
@@ -92,6 +95,12 @@ If you run into any problems, please do not hesitate to contact us (e.g., via em
 This project was preregistered on the Open Science Framework (OSF):
 
 *Gerosa, M., Haggard, P., Villringer, A., & Gaebler, M. (2024, July 8). CardiAg - The influence of CARDIorespiratory phase locking on voluntary action initiation and sense of AGency. https://doi.org/10.17605/OSF.IO/Z7G9H*
+
+## Preprint
+
+This project was preprinted on PsyArXiv: 
+
+*Gerosa, M., Haggard, P., Villringer, A., & Gaebler, M. (2026, April 23). Cardio-respiratory rhythms shape when we act and how we experience the outcomes of our actions. Retrieved from [osf.io/preprints/psyarxiv/qzs6j_v1](osf.io/preprints/psyarxiv/qzs6j_v1)*
 
 ## Contributors/Collaborators
 
